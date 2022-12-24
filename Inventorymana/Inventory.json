@@ -15,5 +15,34 @@
       "weight": 23,
       "price": 100
     }
+  ],
+  "TypesOfWheat": [
+    {
+      "name": "Wheat1",
+      "weight": 25,
+      "price": 400
+    },
+    {
+      "name": "Wheat2",
+      "weight": 21,
+      "price": 320
+    }
+  ],
+  "TypesOfPulses": [
+    {
+      "name": "GreenGram",
+      "weight": 20,
+      "price": 700
+    },
+    {
+      "name": "Red",
+      "weight": 15,
+      "price": 500
+    },
+    {
+      "name": "Yellow",
+      "weight": 10,
+      "price": 430
+    }
   ]
 }
